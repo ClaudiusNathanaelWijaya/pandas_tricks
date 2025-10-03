@@ -1,2 +1,2 @@
-# belajar_pandas2
+# Pandas_tricks
 Place to store pandas excercise
